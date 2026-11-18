@@ -1,0 +1,7 @@
+{
+  "urls": [
+    { "url": "https://codeberg.org/ys7048560/taoge999/raw/branch/main/GG.json", "name": "GG线" },
+    { "url": "https://raw.githubusercontent.com/ys7048560/taoge/refs/heads/main/291", "name": "291线" },
+    { "url": "https://raw.githubusercontent.com/ys7048560/taoge/main/87", "name": "87线" }
+  ]
+}
