@@ -1,6 +1,6 @@
 {
   "urls": [
-    { "url": "https://codeberg.org/ys7048560/taoge999/raw/branch/main/GG.json", "name": "GG线" },
+    { "url": "https://codeberg.org/ys7048560/taoge999/raw/branch/main/GG.json", "name": "3G线" },
     { "url": "https://gitee.com/tao-560/taoge/raw/master/ys%20(291).json", "name": "91线" },
     { "url": "https://codeberg.org/ys7048560/taoge999/raw/branch/main/ys.json", "name": "87线" } ,
     { "url": "https://raw.githubusercontent.com/ys7048560/taoge/refs/heads/main/291", "name": "291线" }
