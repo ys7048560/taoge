@@ -1,8 +1,76 @@
 {
-  "urls": [
-    { "url": "https://codeberg.org/ys7048560/taoge999/raw/branch/main/GG.json", "name": "3G线" },
-    { "url": "https://gitee.com/tao-560/taoge/raw/master/ys%20(291).json", "name": "91线" },
-    { "url": "https://codeberg.org/ys7048560/taoge999/raw/branch/main/ys.json", "name": "87线" } ,
-    { "url": "https://raw.githubusercontent.com/ys7048560/taoge/refs/heads/main/291", "name": "291线" }
+  "sites": [
+    {
+      "key": "I01-codeberg",
+      "name": "I01线路-Codeberg",
+      "type": 1,
+      "api": "https://codeberg.org/ys7048560/taoge/raw/branch/main/I01io4KF&url=%22%22:%20%22",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "0I1-codeberg",
+      "name": "0I1线路-Codeberg",
+      "type": 1,
+      "api": "https://codeberg.org/ys7048560/taoge/raw/branch/main/0I1io4KF&url=%22%22:%20%22",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "I01-gitee",
+      "name": "I01线路-Gitee",
+      "type": 1,
+      "api": "https://gitee.com/tao-560/tao/raw/master/I01io4KF&url=\"\": \"",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "0I1-gitee",
+      "name": "0I1线路-Gitee",
+      "type": 1,
+      "api": "https://gitee.com/tao-560/tao/raw/master/0I1io4KF&url=\"\": \"",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "I01-gitcode",
+      "name": "I01线路-GitCode",
+      "type": 1,
+      "api": "https://api.gitcode.com/api/v5/repos/weixin_57168569/982/raw/I01io4KFurl.json?ref=main",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "0I1-gitcode",
+      "name": "0I1线路-GitCode",
+      "type": 1,
+      "api": "https://api.gitcode.com/api/v5/repos/weixin_57168569/982/raw/0I1io4KFurl.json?ref=main",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "0I1-github",
+      "name": "0I1线路-GitHub",
+      "type": 1,
+      "api": "https://raw.githubusercontent.com/ys7048560/I01io4KF/refs/heads/main/0I1io4KF%26url%3D%22%22%3A%20%22",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "I01-github",
+      "name": "I01线路-GitHub",
+      "type": 1,
+      "api": "https://raw.githubusercontent.com/ys7048560/I01io4KF/refs/heads/main/I01io4KF%26url%3D%22%22%3A%20%22",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }
   ]
 }
